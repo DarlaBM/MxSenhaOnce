@@ -1,0 +1,15 @@
+{
+  "name": "MxSenha",
+  "short_name": "MxSenha",
+  "display": "standalone",
+  "background_color": "#1c1c1e",
+  "theme_color": "#1c1c1e",
+  "start_url": "/MxSenhaOnce/",
+  "icons": [
+    {
+      "src": "icon.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
